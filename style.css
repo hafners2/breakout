@@ -1,0 +1,31 @@
+.grid {
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid black 2px;
+}
+
+.stone-block {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-image: url('images/stone-block.jpeg');
+    background-size: cover;
+}
+
+.user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-image: url('images/dirt-block.jpeg');
+    background-size: cover;
+}
+
+.ball {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-image: url('images/pikachu.png');
+    background-size: cover;
+
+}
